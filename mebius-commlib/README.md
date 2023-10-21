@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/same4869/MebiusCommlib.svg)](https://jitpack.io/#same4869/MebiusCommlib)
+
 ### Commlib
 此库为其他库的基础，需要保持尽可能纯净，且禁止业务相关
 
