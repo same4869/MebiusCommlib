@@ -1,6 +1,3 @@
-# MebiusCommlib
-Mebius的submodule--MebiusCommlib
-
 ### Commlib
 此库为其他库的基础，需要保持尽可能纯净，且禁止业务相关
 
@@ -18,3 +15,23 @@ Mebius的submodule--MebiusCommlib
 - JsonParser：不依赖gson等序列化框架，通过外部依赖注入的方式
 - GlobalRxDisposeManager：如果使用rxjava，防止内存泄漏工具类
 - livedata包：防止倒灌的livedata
+
+
+
+--------------------------------------------------------------
+
+# Module kotlin-demo
+
+The module shows the Dokka syntax usage.
+
+# Package org.jetbrains.kotlin.demo
+
+Contains assorted useful stuff.
+
+## Level 2 heading
+
+Text after this heading is also part of documentation for `org.jetbrains.kotlin.demo`
+
+# Package org.jetbrains.kotlin.demo2
+
+Useful stuff in another package.

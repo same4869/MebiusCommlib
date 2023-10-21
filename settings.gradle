@@ -1,0 +1,21 @@
+pluginManagement {
+    repositories {
+        google()
+        mavenCentral()
+        gradlePluginPortal()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+//        maven {
+//            url("http://localhost:8081/repository/maven-releases/")
+//            allowInsecureProtocol = true
+//        }
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Mebius-commlib"
+include ':app'
+include ':mebius-commlib'
