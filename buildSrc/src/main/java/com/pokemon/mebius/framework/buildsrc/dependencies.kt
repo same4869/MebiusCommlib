@@ -39,6 +39,6 @@ object Versions {
     const val compileSdkVersion = 33
     const val minSdkVersion = 24
     const val targetSdkVersion = 33
-    const val kotlin = "1.8.20"
-    const val agp = "8.0.1"
+    const val kotlin = "1.6.20"
+    const val agp = "7.0.3"
 }
